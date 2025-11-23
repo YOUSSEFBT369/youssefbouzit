@@ -1,5 +1,7 @@
 Hi 👋, I'm Youssef Bouzit
-Data Science Student | Data Analyst
+
+🎓 Data Science Student | 🤖 ML Engineer in the making | 📊 Data Storyteller
+💡 Passionate about turning data into insights and models into solutions
 
 📫 How to reach me: bt.youssef.369@gmail.com
 
