@@ -57,7 +57,6 @@ Hi 👋, I'm Youssef Bouzit
 
 ### 🎯 Currently Working On
 - 🔬 Advanced Machine Learning Projects
-- 📡 Signal & Image Processing Algorithms  
 - 📊 Big Data Analytics Solutions
 
 *"Data is the new oil, and AI is the refinery"*
