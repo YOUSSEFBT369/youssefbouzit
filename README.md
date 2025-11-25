@@ -9,7 +9,7 @@ Hi 👋, I'm Youssef Bouzit
 ### Connect with me:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yussefbt)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ton-username)
-[![streamlit](https://share.streamlit.io/user/youssefbt369)
+[![streamlit](https://img.shields.io/badge/streamlit-181717?style=for-the-badge&logo=stramlit&logoColor=white)](https://share.streamlit.io/user/youssefbt369)
 
 ### 🛠️ Technical Stack
 
