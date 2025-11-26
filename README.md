@@ -1,12 +1,25 @@
 <h1 align="center">Hi 👋, I'm Youssef Bouzit</h1>
-<h3 align="center">Data Science Student | AI & Machine Learning Enthusiast</h3>
+<h3 align="center">Data Science Engineering Student | AI & Machine Learning Specialist</h3>
 
 ---
 
-## 🎓 **Statut actuel**
-🎓 **Étudiant en Data Science** — Futur Data Scientist & Ingénieur IA, spécialisé en IA, NLP, analyse fonctionnelle et robustesse des modèles.
+## 🎓 **Current Status**
+🎓 **Data Science Engineering Student** — Aspiring Data Scientist & AI Engineer, specialized in AI, NLP, functional analysis and model robustness.
 
-🔍 **Actuellement en recherche active** d'un stage PFE puis d'un CDI dans la Data Science ou l'Intelligence Artificielle.
+🔍 **Actively seeking** PFE internship followed by CDI in Data Science or Artificial Intelligence.
+
+---
+
+## 💼 **Hiring Status**
+- ✅ **Available for PFE internship** starting immediately
+- ✅ **Open to full-time positions** after graduation
+- 💡 **Interested in roles:** Data Scientist, ML Engineer, AI Developer
+- 📧 **Direct contact:** bt.youssef.369@gmail.com
+
+---
+
+## 🚀 **Featured Projects**
+*🎯 **Professional portfolio in development** - Currently crafting innovative AI solutions and comprehensive case studies*
 
 ---
 
@@ -61,13 +74,36 @@
 
 ---
 
+## 💪 **Soft Skills**
+- 🔍 **Problem Solving & Analytical Thinking**
+- 🤝 **Team Collaboration & Communication**
+- 📊 **Project Management & Documentation**
+- 🚀 **Continuous Learning & Adaptability**
+- 💡 **Innovation & Creative Thinking**
+- ⏱️ **Time Management & Organization**
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUSSEF-BT&show_icons=true&theme=radical" alt="Youssef's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUSSEF-BT&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSSEF-BT&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ## 🌟 **Currently Working On**
-Des projets en Intelligence Artificielle, notamment autour de la théorie des signatures, des LLMs, du NLP et de l'apprentissage profond.
+Advanced AI projects focusing on signature theory, LLMs, NLP, and deep learning research.
 
 ---
 
 ## 🤝 **Looking to Collaborate On**
-Des projets en Data Science, Machine Learning ou Deep Learning, notamment en Python (TensorFlow, PyTorch, Scikit-learn), ou dans des contextes de recherche appliquée.
+Data Science, Machine Learning, or Deep Learning projects, particularly in Python (TensorFlow, PyTorch, Scikit-learn), or applied research contexts.
 
 ---
 
