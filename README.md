@@ -94,11 +94,65 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center" style="padding:20px; border-radius:25px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.05);">
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 🏆 Global Ranking
+<img src="https://komarev.com/ghpvc/?username=YOUSSEF-BT&label=Profile%20Views&color=blue&style=for-the-badge" />
+
+<br><br>
+
+### ⭐ Highlight — Main Language
+<p>
+  <img src="https://img.shields.io/badge/Most%20Used%20Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 📈 Languages Breakdown (Clean & Modern)
 
 <img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUSSEF-BT&layout=donut-vertical&langs_count=10&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUSSEF-BT&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&border_radius=16"
 />
+
+---
+
+### 🎚 Skill Meter — Dynamic Overview
+
+<div align="left">
+
+#### 🟦 Programming
+| Language | Level |
+|---------|--------|
+| **JavaScript** | ██████████ 95% |
+| **Python** | ████████░░ 78% |
+| **Java** | ███████░░░ 70% |
+| **C / C++** | ████░░░░░░ 40% |
+
+#### 🟩 Data & AI
+| Domain | Level |
+|--------|--------|
+| **Machine Learning** | ████████░░ 80% |
+| **Deep Learning** | ███████░░░ 73% |
+| **Data Engineering** | ██████░░░░ 60% |
+
+#### 🟪 DevOps & Tools
+| Tool | Level |
+|------|--------|
+| **Git / GitHub** | █████████░ 90% |
+| **Docker** | █████░░░░░ 50% |
+| **Linux** | ███████░░░ 70% |
+
+</div>
+
+---
+
+### 🥇 GitHub Global Badge
+
+<img src="https://img.shields.io/badge/GitHub%20Profile%20Quality-EXCELLENT-1abc9c?style=for-the-badge&logo=github" />
+
+<br>
 
 </div>
 
