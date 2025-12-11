@@ -1,7 +1,15 @@
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUSSEF-BT&theme=tokyonight&hide_border=true&border_radius=15">
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUSSEF-BT/YOUSSEF-BT/main/assets/bounce.gif" width="100">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUSSEF-BT&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUSSEF-BT&layout=donut&langs_count=10&theme=tokyonight&hide_border=true&border_radius=15">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Youssef Bouzit</h1>
 <h3 align="center">Data Science Engineering Student</h3>
