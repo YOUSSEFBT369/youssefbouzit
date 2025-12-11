@@ -94,7 +94,7 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=YOUSSEF-BT&layout=compact&langs_count=10&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUSSEF-BT&layout=compact&langs_count=10&theme=tokyonight" />
 </p>
 
 ---
