@@ -20,6 +20,7 @@
 ---
 
 ## 🚀 **Featured Projects**
+
 *🎯 **Professional portfolio in development** - Currently crafting innovative AI solutions and comprehensive case studies*
 
 ---
@@ -110,7 +111,7 @@ Advanced AI projects focusing on signature theory, LLMs, NLP, and deep learning 
 ---
 
 ## 🤝 **Looking to Collaborate On**
-Data Science, Machine Learning, or Deep Learning projects, particularly in Python (TensorFlow, PyTorch, Scikit-learn), or applied research contexts.
+Data Analyst, Data Science, Machine Learning, or Deep Learning projects, particularly in Python (TensorFlow, PyTorch, Scikit-learn), or applied research contexts.
 
 ---
 
@@ -125,5 +126,5 @@ Data Science, Machine Learning, or Deep Learning projects, particularly in Pytho
 ---
 
 <p align="center">
-  <i>🚀 "Data is the new oil, and AI is the refinery"</i>
+  <i> "Data is the new oil, and AI is the refinery"</i>
 </p>
