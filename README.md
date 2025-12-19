@@ -3,7 +3,7 @@
 
 ---
 
-## 🎓 **Current Status**
+## 🎓 ** Current Status**
 🎓 **Data Science Engineering Student** — Aspiring Data Scientist & AI Engineer, specialized in AI, NLP, functional analysis and model robustness.
 
 🔍 **Actively seeking** PFE internship followed by CDI in Data Science or Data Analyst or Artificial Intelligence.
